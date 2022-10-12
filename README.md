@@ -1,4 +1,4 @@
-# kipngetich_ruto_resume
+# Resume
 
 This is my resume imported from a pdf file. 
 It is a basic file import using iframe on html.
